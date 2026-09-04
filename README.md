@@ -45,10 +45,6 @@ python memory_game.py
 
 También puede ejecutarse directamente desde Thonny u otro IDE compatible con Python 3.
 
-## Nota
-
-Esta versión para portafolio conserva la lógica del proyecto académico original e incluye una pequeña mejora de robustez: la segunda selección utiliza la misma validación de coordenadas que la primera para evitar errores por entradas no válidas.
-
 ## Autor
 
 **Juan Pablo Amezcua**  
